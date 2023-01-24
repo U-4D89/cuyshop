@@ -9,7 +9,7 @@
 
 ### Instalation 🔧
  - project in your machine
-    - ```git clone https://github.com/U-4D89/cuyshop```
+    - ```git clone https://github.com/U-4D89/cuyshop.git```
  - dependencies
     - ```npm i```
     or 
