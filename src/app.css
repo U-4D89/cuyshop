@@ -1,0 +1,80 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+.App {
+    background-color: rgb(213, 213, 213);
+}
+
+.box{
+ width: 100%;
+ height: 100%;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+    
+}
+
+nav {
+    background-color: #8DB287;
+}
+
+/*  products */
+.products-container {
+    width: 80%;
+    height: 80%;
+    background-color: rgb(174,174,174);
+    padding: 0 5%;
+}
+
+.product-item {
+    width: 70px !important;
+    background-color: rgb(254, 255, 215);
+}
+
+.prod-img-container { text-align: center; }
+
+
+.prod-btn-container{
+    text-align: end;
+}
+
+.prod-btn-add, .btn-addq{
+    background-color: rgb(142, 115, 169);
+}
+
+/*  products */
+
+
+
+/* cart */
+.cart-container {
+    width: 80%;
+    height: 80%;
+    background-color: rgb(174,174,174);
+    padding: 0 5%;
+}
+
+
+.cart-item {
+    border: 2px solid black;
+    margin-top: 25px ;
+    text-align: center;
+    background-color: rgb(247, 250, 166);
+}
+
+
+
+.button-container {
+    width: 100%;
+    display: inline;
+    grid-gap: 10px;
+}
+
+.btn-subsq {
+    background-color: rgb(111, 81, 143);
+}
+
+.btn-del {
+    background-color: rgb(49, 23, 78);
+}
+/* cart */
